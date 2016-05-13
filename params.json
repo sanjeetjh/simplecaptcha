@@ -1,0 +1,6 @@
+{
+  "name": "Simplecaptcha",
+  "tagline": "SimpleCaptcha - A Java library for creating CAPTCHAs for J2EE applications, including Spring MVC, Struts, and Grails.",
+  "body": "### Introduction.\r\nSimpleCaptcha is a Java library for generating CAPTCHA challenge/answer pairs. SimpleCaptcha is intended to be easy to implement and use sensible defaults, while providing easily-accesssible hooks for customization. Example implementations are provided in J2EE and Grails.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
